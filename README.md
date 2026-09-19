@@ -1,7 +1,7 @@
 # About
 To-do
 
-# Features
+## Features
 To-do
 
 # Running the Program

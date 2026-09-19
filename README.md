@@ -14,7 +14,7 @@ The JavaFX SDK (version 25.0.x) is required to run the project from source.
 
 Download the [JavaFX SDK](https://www.oracle.com/java/technologies/downloads/javafx/#javafx25) and set the module-path in the below JVM arguments to the path of the "lib" folder of the JavaFX SDK. Note that the entire SDK is needed (only having the contents of the lib folder will not work).
 
-This program does not use Java 8+ modules for compatibility with [OPENGLFX](https://github.com/husker-dev/openglfx). 
+This program does not use Java 8+ modules for compatibility with [OpenGLFX](https://github.com/husker-dev/openglfx). 
 To run, add the following JVM arguments:
 
 ```

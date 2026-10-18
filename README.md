@@ -6,7 +6,7 @@ To-do
 
 # Running the Program
 Requires Java 25 or higher to run.
-See releases for instructions on running the standalone JAR. Release versions Alpha 0.0.3 and below have a launch script (VBScript) that is only compatible with Windows systems. However, compiling and running from source works on Windows and Linux, and, although it hasn't been tested, should work on MacOS.
+See releases for instructions on running the standalone JAR. Release versions Alpha 0.0.3 and below have a launch script (VBScript) that is only compatible with Windows systems. However, compiling and running from source works on Windows and Linux, and, although it hasn't been tested, should work on macOS.
 
 # Compiling and Running from Source
 

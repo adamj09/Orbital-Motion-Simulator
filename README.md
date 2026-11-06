@@ -1,4 +1,5 @@
 # About
+## Purpose
 A JavaFX program that produces solutions to two-body problems, and renders those solutions in three dimensions.
 
 For simplicity's sake, one body is considered to have a much greater mass than the other. This means that only the larger body produces an effect on the smaller body (never vice-versa), and so the program is primarily useful for modelling orbits of small satellites (like artificial satellites or relatively small natural objects).
